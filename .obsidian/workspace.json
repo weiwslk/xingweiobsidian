@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "d9da6bc1db2f95d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9118d3565b9ac979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e56374e23747e4db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课第2节-架构解析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ClaudeCode专题课第2节-架构解析"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6afc1ef9bd8789fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f8a65530d3b67db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bc85a896eff2979",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4d2a4682ace9b553",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "548073b600d557ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "786b997724fc71cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc207699bcd2322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6d76e9dc45bbf07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "be3c86a7a993d9ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "13999e54e5510a9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "482074b678243a5b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5103b5a3c4ecb0e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "e56374e23747e4db",
+  "lastOpenFiles": [
+    "2026-11-10.md",
+    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode快速入门.md",
+    "02_AI/赋范Agent开发/04_openaicodex",
+    "02_AI/赋范Agent开发/02_大模型本地部署基础入门.md",
+    "02_AI/赋范Agent开发/02_开源大模型部署和调用指南.md",
+    "02_AI/赋范Agent开发/01_大模型在线API接入基础入门实战.md",
+    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课第3节-多智能体与上下文工程.md",
+    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课-AI工作台搭建.md",
+    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课第2节-架构解析.md",
+    "02_AI/赋范Agent开发/01_大模型在线API接入基础入门.md",
+    "02_AI/AI应用/AI知识库全景入门.md",
+    "02_AI/赋范Agent开发/03_ClaudeCode架构与源码深度解析.md",
+    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode快速入门.ipynb",
+    "02_AI/赋范Agent开发/03_claudecode",
+    "02_AI/AI应用/99_assets/Pasted image 20261109200604.png",
+    "未命名.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "02_AI/AI应用/99_assets/Pasted image 20261109212756.png",
+    "02_AI/AI应用/99_assets/Pasted image 20261109212359.png",
+    "02_AI/AI应用/99_assets/Pasted image 20261109212218.png",
+    "02_AI/AI应用/99_assets/Pasted image 20261109210714.png",
+    "02_AI/AI应用/99_assets/Pasted image 20261109210619.png",
+    "02_AI/AI应用/99_assets/Pasted image 20261109210414.png",
+    "02_AI/AI应用/99_assets/Pasted image 20261109205837.png",
+    "02_AI/AI应用/99_assets/Pasted image 20261109205555.png",
+    "02_AI/AI应用/99_assets/Pasted image 20261109205513.png",
+    "00_知识库索引文档.md",
+    "02_AI/AI应用/Super Agent 架构原理.md",
+    "01_一堂课程/读书笔记/拆书会第226期：Y模型之后重新理解《毛选》.md",
+    "01_一堂课程/读书笔记/拆书会第226期：Y模型之后重新理解《毛选》.zip",
+    "01_一堂课程/读书笔记/images",
+    "02_AI/AI应用/知识蒸馏产品能力及实践/知识蒸馏产品能力及实践_原稿.md",
+    "02_AI/AI应用/知识蒸馏产品能力及实践/知识蒸馏产品能力及实践_DataFun V20261105.pdf",
+    "02_AI/AI应用/99_assets",
+    "02_AI/AI应用/Hermes 打造你的超级助理/Hermes 打造你的超级助理.md",
+    "02_AI/AI应用/知识蒸馏产品能力及实践/知识蒸馏产品能力及实践.md",
+    "02_AI/AI应用/Hermes 打造你的超级助理/图片和附件/SOUL.md",
+    "02_AI/AI应用/Hermes 打造你的超级助理/图片和附件/agent-course-faq.md"
+  ]
+}
