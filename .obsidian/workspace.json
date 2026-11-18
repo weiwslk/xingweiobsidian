@@ -11,10 +11,14 @@
             "id": "dfb4fa993020630b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_AI/赋范Agent开发/00_学习路线/00_选择你的学习路径.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "00_选择你的学习路径"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "786b997724fc71cb",
@@ -181,42 +186,45 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6bc85a896eff2979",
+  "active": "dfb4fa993020630b",
   "lastOpenFiles": [
-    "02_AI/赋范Agent开发/01_",
     "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课第3节-多智能体与上下文工程.md",
-    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课-AI工作台搭建.md",
-    "02_AI/赋范Agent开发/04_openaicodex/04_CodexLoopEngineering_循环工程实践.md",
-    "02_AI/赋范Agent开发/04_openaicodex/03_OpenAICodex进阶实战.md",
-    "02_AI/赋范Agent开发/04_openaicodex/02_OpenAICodex快速入门实战（下）.md",
-    "02_AI/赋范Agent开发/04_openaicodex/00_OpenAICodex快速入门实战（上）.md",
+    "02_AI/赋范Agent开发/00_学习路线/企业落地·一人公司.md",
+    "02_AI/赋范Agent开发/00_学习路线/零基础超级个体.md",
+    "02_AI/赋范Agent开发/00_学习路线/工程师转型 Agent 开发.md",
+    "02_AI/赋范Agent开发/00_学习路线/冲高薪就业.md",
+    "02_AI/赋范Agent开发/00_学习路线/产品业务岗AI全栈.md",
+    "02_AI/赋范Agent开发/00_学习路线/00_选择你的学习路径.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/零基础超级个体/零基础超级个体·StageE第一个能拿出手的项目·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/零基础超级个体/零基础超级个体·StageD教会你的Agent·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/零基础超级个体/零基础超级个体·StageC上手基座智能体·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/零基础超级个体/零基础超级个体·StageB让模型为你所用·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/零基础超级个体/零基础超级个体·StageA·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/零基础超级个体",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/工程师转型/工程师转型·StageE工业项目·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/工程师转型/工程师转型·StageD部署上线·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/工程师转型/工程师转型·StageC进阶能力·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/工程师转型/工程师转型·StageA基座速通·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/工程师转型/工程师转型·StageB开发进阶·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/工程师转型",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/冲高薪就业/冲高薪就业·StageD部署与工程·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/冲高薪就业/冲高薪就业·StageE旗舰项目组合·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/冲高薪就业/冲高薪就业·StageA基础与基座·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/冲高薪就业/冲高薪就业·StageC微调·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/冲高薪就业/冲高薪就业·StageB开发与RAG·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/冲高薪就业",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/企业落地一人公司/企业落地一人公司·StageD生产化收口·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/企业落地一人公司/企业落地一人公司·StageC部署上线·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/企业落地一人公司/企业落地一人公司·StageB选型打样·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/企业落地一人公司/企业落地一人公司·StageA快速接入·过关手册.md",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/企业落地一人公司",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册/产品业务岗AI全栈",
+    "02_AI/赋范Agent开发/00_学习路线/过关手册",
+    "02_AI/赋范Agent开发/00_学习路线",
+    "02_AI/赋范Agent开发/01_",
     "02_AI/赋范Agent开发/06_hermesagent/Harness Engineering 最佳实践：Hermes Agent 快速入门实战（上）.pdf",
-    "02_AI/赋范Agent开发/07_agentskills/03_AgentSkills应用实战入门（下）.md",
-    "02_AI/赋范Agent开发/07_agentskills/02_AgentSkills应用实战入门.md",
-    "02_AI/赋范Agent开发/07_agentskills/01_大模型AgentSkills设计实战.md",
-    "02_AI/赋范Agent开发/07_agentskills/00_大模型AgentSkills基础入门.md",
     "02_AI/赋范Agent开发/07_agentskills",
-    "02_AI/赋范Agent开发/06_hermesagent/Harness Engineering 最佳实践：Hermes Agent 快速入门实战（下）.pdf",
-    "02_AI/赋范Agent开发/05_openclaw/OpenClaw专题课第三节课-FuFan-OpenClaw源码解析.md",
-    "02_AI/赋范Agent开发/05_openclaw/OpenClaw专题课第二节课-上下文、多智能体与记忆管理.md",
-    "02_AI/赋范Agent开发/05_openclaw/OpenClaw专题课第一节课-部署安装与核心架构.md",
-    "02_AI/赋范Agent开发/06_hermesagent",
-    "02_AI/赋范Agent开发/05_openclaw",
-    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课第2节-架构解析.md",
-    "2026-11-10.md",
-    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode快速入门.md",
-    "02_AI/赋范Agent开发/04_openaicodex",
-    "02_AI/赋范Agent开发/02_大模型本地部署基础入门.md",
-    "02_AI/赋范Agent开发/02_开源大模型部署和调用指南.md",
-    "02_AI/赋范Agent开发/01_大模型在线API接入基础入门实战.md",
-    "02_AI/赋范Agent开发/01_大模型在线API接入基础入门.md",
-    "02_AI/AI应用/AI知识库全景入门.md",
-    "02_AI/赋范Agent开发/03_ClaudeCode架构与源码深度解析.md",
-    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode快速入门.ipynb",
-    "02_AI/赋范Agent开发/03_claudecode",
     "02_AI/AI应用/99_assets/Pasted image 20261109200604.png",
-    "未命名.base",
-    "未命名 2.base",
     "02_AI/AI应用/99_assets/Pasted image 20261109212756.png",
     "02_AI/AI应用/99_assets/Pasted image 20261109212359.png",
     "02_AI/AI应用/99_assets/Pasted image 20261109212218.png",
@@ -225,9 +233,6 @@
     "02_AI/AI应用/99_assets/Pasted image 20261109210414.png",
     "02_AI/AI应用/99_assets/Pasted image 20261109205837.png",
     "02_AI/AI应用/99_assets/Pasted image 20261109205555.png",
-    "02_AI/AI应用/99_assets/Pasted image 20261109205513.png",
-    "00_知识库索引文档.md",
-    "02_AI/AI应用/Super Agent 架构原理.md",
-    "01_一堂课程/读书笔记/拆书会第226期：Y模型之后重新理解《毛选》.md"
+    "02_AI/AI应用/99_assets/Pasted image 20261109205513.png"
   ]
 }
