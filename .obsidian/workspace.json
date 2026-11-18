@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9118d3565b9ac979",
+        "id": "69bce9cced6e980c",
         "type": "tabs",
         "children": [
           {
-            "id": "e56374e23747e4db",
+            "id": "dfb4fa993020630b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课第2节-架构解析.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ClaudeCode专题课第2节-架构解析"
+              "title": "新标签页"
             }
           }
         ]
@@ -83,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 389.5
   },
   "right": {
     "id": "786b997724fc71cb",
@@ -186,17 +181,34 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e56374e23747e4db",
+  "active": "6bc85a896eff2979",
   "lastOpenFiles": [
+    "02_AI/赋范Agent开发/01_",
+    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课第3节-多智能体与上下文工程.md",
+    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课-AI工作台搭建.md",
+    "02_AI/赋范Agent开发/04_openaicodex/04_CodexLoopEngineering_循环工程实践.md",
+    "02_AI/赋范Agent开发/04_openaicodex/03_OpenAICodex进阶实战.md",
+    "02_AI/赋范Agent开发/04_openaicodex/02_OpenAICodex快速入门实战（下）.md",
+    "02_AI/赋范Agent开发/04_openaicodex/00_OpenAICodex快速入门实战（上）.md",
+    "02_AI/赋范Agent开发/06_hermesagent/Harness Engineering 最佳实践：Hermes Agent 快速入门实战（上）.pdf",
+    "02_AI/赋范Agent开发/07_agentskills/03_AgentSkills应用实战入门（下）.md",
+    "02_AI/赋范Agent开发/07_agentskills/02_AgentSkills应用实战入门.md",
+    "02_AI/赋范Agent开发/07_agentskills/01_大模型AgentSkills设计实战.md",
+    "02_AI/赋范Agent开发/07_agentskills/00_大模型AgentSkills基础入门.md",
+    "02_AI/赋范Agent开发/07_agentskills",
+    "02_AI/赋范Agent开发/06_hermesagent/Harness Engineering 最佳实践：Hermes Agent 快速入门实战（下）.pdf",
+    "02_AI/赋范Agent开发/05_openclaw/OpenClaw专题课第三节课-FuFan-OpenClaw源码解析.md",
+    "02_AI/赋范Agent开发/05_openclaw/OpenClaw专题课第二节课-上下文、多智能体与记忆管理.md",
+    "02_AI/赋范Agent开发/05_openclaw/OpenClaw专题课第一节课-部署安装与核心架构.md",
+    "02_AI/赋范Agent开发/06_hermesagent",
+    "02_AI/赋范Agent开发/05_openclaw",
+    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课第2节-架构解析.md",
     "2026-11-10.md",
     "02_AI/赋范Agent开发/03_claudecode/ClaudeCode快速入门.md",
     "02_AI/赋范Agent开发/04_openaicodex",
     "02_AI/赋范Agent开发/02_大模型本地部署基础入门.md",
     "02_AI/赋范Agent开发/02_开源大模型部署和调用指南.md",
     "02_AI/赋范Agent开发/01_大模型在线API接入基础入门实战.md",
-    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课第3节-多智能体与上下文工程.md",
-    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课-AI工作台搭建.md",
-    "02_AI/赋范Agent开发/03_claudecode/ClaudeCode专题课第2节-架构解析.md",
     "02_AI/赋范Agent开发/01_大模型在线API接入基础入门.md",
     "02_AI/AI应用/AI知识库全景入门.md",
     "02_AI/赋范Agent开发/03_ClaudeCode架构与源码深度解析.md",
@@ -205,7 +217,6 @@
     "02_AI/AI应用/99_assets/Pasted image 20261109200604.png",
     "未命名.base",
     "未命名 2.base",
-    "未命名 1.base",
     "02_AI/AI应用/99_assets/Pasted image 20261109212756.png",
     "02_AI/AI应用/99_assets/Pasted image 20261109212359.png",
     "02_AI/AI应用/99_assets/Pasted image 20261109212218.png",
@@ -217,15 +228,6 @@
     "02_AI/AI应用/99_assets/Pasted image 20261109205513.png",
     "00_知识库索引文档.md",
     "02_AI/AI应用/Super Agent 架构原理.md",
-    "01_一堂课程/读书笔记/拆书会第226期：Y模型之后重新理解《毛选》.md",
-    "01_一堂课程/读书笔记/拆书会第226期：Y模型之后重新理解《毛选》.zip",
-    "01_一堂课程/读书笔记/images",
-    "02_AI/AI应用/知识蒸馏产品能力及实践/知识蒸馏产品能力及实践_原稿.md",
-    "02_AI/AI应用/知识蒸馏产品能力及实践/知识蒸馏产品能力及实践_DataFun V20261105.pdf",
-    "02_AI/AI应用/99_assets",
-    "02_AI/AI应用/Hermes 打造你的超级助理/Hermes 打造你的超级助理.md",
-    "02_AI/AI应用/知识蒸馏产品能力及实践/知识蒸馏产品能力及实践.md",
-    "02_AI/AI应用/Hermes 打造你的超级助理/图片和附件/SOUL.md",
-    "02_AI/AI应用/Hermes 打造你的超级助理/图片和附件/agent-course-faq.md"
+    "01_一堂课程/读书笔记/拆书会第226期：Y模型之后重新理解《毛选》.md"
   ]
 }
